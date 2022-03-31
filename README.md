@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-💜 Inspirate by https://codepen.io/cassie-codes/pen/pYwXwb.
+💜 Inspire by https://codepen.io/cassie-codes/pen/pYwXwb.
 
 💜 Initial todos are fetched from https://jsonplaceholder.typicode.com/.
 
