@@ -1,24 +1,13 @@
-# vuex-todo
+# vuex-todolist
 
-## Project setup
-```
-npm install
-```
+## Inspiration
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+💜 Inspirate by https://codepen.io/cassie-codes/pen/pYwXwb.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+💜 Initial todos are fetched from https://jsonplaceholder.typicode.com/.
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Uploading image.png…]()
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+💜 Hope u enjoy it ~
+
+
