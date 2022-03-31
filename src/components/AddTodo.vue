@@ -3,7 +3,7 @@
     <div class="heading"><label class="label"> ~ Today I need to ~ </label></div>
     <form class="form" action="#">
       <input class="form-input" type="text" v-model="title">
-      <button class="form-button" @click="addTodo(title)"><span>submit</span></button>
+      <button class="form-button" @click="submit()"><span>submit</span></button>
     </form>
   </div>
 </template>
@@ -19,6 +19,12 @@ export default {
   },
   methods: {
     ...mapActions(['addTodo']),
+    submit(){
+      if(this.title.length !== 0){
+        this.addTodo(this.title);
+        this.title = "";
+      }
+    }
   }
 }
 </script>
