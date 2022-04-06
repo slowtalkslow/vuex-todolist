@@ -1,10 +1,14 @@
 # vuex-todolist
 
-## Inspiration
+## Thanks
 
-Inspire by https://codepen.io/cassie-codes/pen/pYwXwb.
+Inspiration of https://codepen.io/cassie-codes/pen/pYwXwb.
+
+## Just fake
 
 Initial todos are fetched from https://jsonplaceholder.typicode.com/.
+
+## Take a look
 
 Hope u enjoy it ~
 
