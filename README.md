@@ -2,11 +2,11 @@
 
 ## Thanks
 
-Inspiration of https://codepen.io/cassie-codes/pen/pYwXwb.
+Practice for a cute [todolist](https://codepen.io/cassie-codes/pen/pYwXwb).
 
 ## Just fake
 
-Initial todos are fetched from https://jsonplaceholder.typicode.com/.
+Initial todos are fetched from [jsonplaceholder](https://jsonplaceholder.typicode.com/).
 
 ## Take a look
 
